@@ -1,3 +1,5 @@
+![Github](images/github.jpg)  
+![Banner](images/banner.png)  
 # 📊 GitHub Followers & Stars Growth Analysis
 
 This repository presents an analysis of the factors that influence **GitHub follower growth**, focusing on the relationship between **repository stars** and **developer contributions**.  
