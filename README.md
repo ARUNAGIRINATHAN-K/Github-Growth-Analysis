@@ -36,7 +36,8 @@ Correlation charts included in this repo illustrate:
 
 ## 📚 Contents
 
-- [`REPORT.md`](REPORT.md) → Full detailed analysis with references, charts, and case studies  
+- [`REPORT.md`](REPORT.md) → Full detailed analysis with references, charts, and case studies
+- [REPORT](CompleteReport.md) → Report on what drives GitHub follower growth (and whom to follow), with an emphasis on the role of stars and contributions.
 - [Images](/images) → Charts & visualizations  
  
 ---
