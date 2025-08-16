@@ -35,7 +35,7 @@ Correlation charts included in this repo illustrate:
 ## 📚 Contents
 
 - [`REPORT.md`](REPORT.md) → Full detailed analysis with references, charts, and case studies  
-- `/images` → Charts & visualizations  
+- [Images](/images) → Charts & visualizations  
  
 ---
 
